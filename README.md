@@ -1,2 +1,37 @@
-# MyHouse
-MyHouse enables users to find and rent properties directly from landlords, without going through a real estate agency. Whether you're looking for an apartment, house or room, this application simplifies the rental process by connecting tenants and landlords in a user-friendly and secure way.
+MyHouse - Peer-to-Peer Housing Rental Application
+=================================================
+
+Welcome to the MyHouse project, a Java Android application for peer-to-peer housing rentals.
+
+Overview
+--------
+
+MyHouse provides a user-friendly platform to facilitate housing rentals between individuals. Whether you're looking for an apartment, house, or room, MyHouse allows you to quickly find accommodations that meet your specific needs.
+
+Key Features
+------------
+
+-   Advanced Search: Utilize search criteria such as location, price, housing type, amenities, etc., to find accommodations that match your preferences.
+-   Listing Management: Property owners can create detailed listings for their accommodations, including photos, descriptions, and key information.
+-   Integrated Messaging: Easily communicate with the owners of the accommodations you're interested in, ask questions, schedule viewings, and negotiate rental details.
+-   Rating System: Tenants can leave ratings and reviews on accommodations and owners, contributing to a trusted community.
+-   Favorites: Save your favorite listings to a favorites list for quick access and future comparison.
+-   Notifications: Receive real-time notifications for new listings, incoming messages, and important updates.
+
+Screenshots
+-----------
+
+Insert screenshots of the application here to provide a visual overview of its interface and features.
+
+Installation
+------------
+
+1.  Clone this repository to your local machine.
+2.  Open the project in Android Studio.
+3.  Set up your Android emulator or connect your Android device.
+4.  Build and run the application.
+
+Contributions
+-------------
+
+Contributions are welcome! If you'd like to enhance or add new features to MyHouse, feel free to open a pull request. Please refer to the contribution guidelines for more details.
