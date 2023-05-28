@@ -26,7 +26,7 @@ Insert screenshots of the application here to provide a visual overview of its i
 Installation
 ------------
 
-1.  Clone this repository to your local machine.
+1.  Clone the repository: `git clone https://github.com/omarmez01/MyHouse.git`
 2.  Open the project in Android Studio.
 3.  Set up your Android emulator or connect your Android device.
 4.  Build and run the application.
