@@ -18,11 +18,6 @@ Key Features
 -   Favorites: Save your favorite listings to a favorites list for quick access and future comparison.
 -   Notifications: Receive real-time notifications for new listings, incoming messages, and important updates.
 
-Screenshots
------------
-
-Insert screenshots of the application here to provide a visual overview of its interface and features.
-
 Installation
 ------------
 
